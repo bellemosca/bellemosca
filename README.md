@@ -23,6 +23,7 @@
   <img src="https://img.icons8.com/?size=48&id=BEMhRoRy403e&format=png" height="30" alt="excel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img src="./assets/powerapps.png" height="30" alt="power apps logo"  />
 </div>
 
 ###
