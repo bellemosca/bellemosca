@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Isabelle Mosca and I'm a student from Data Analytics</h2>
+<h2 align="left">Hi 👋! My name is Isabelle Mosca and I'm a student from Data Scientist</h2>
 
 ###
 
